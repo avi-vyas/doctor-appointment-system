@@ -4,23 +4,6 @@
 
 A robust and secure Doctor Appointment System API built with FastAPI, designed to facilitate efficient appointment management for both doctors and patients. This system provides a clear separation of concerns with role-based access control (RBAC) for `DOCTOR` and `PATIENT` users.
 
-## Table of Contents
-
--   [Features](#-features)
--   [Tech Stack](#-tech-stack)
--   [Installation](#-installation)
-    -   Database Setup
-    -   Dependency Installation
-    -   Running the API
--   [Usage & Example Flow](#-usage--example-flow)
--   [API Reference](#-api-reference)
-    -   Authentication Endpoints
-    -   Doctor Endpoints
-    -   Patient Endpoints
--   [Project Structure](#-project-structure)
--   [Contributing](#-contributing)
--   [Footer](#%EF%B8%8F-footer)
-
 ## Features
 
 This API provides comprehensive features for managing doctor appointments:
