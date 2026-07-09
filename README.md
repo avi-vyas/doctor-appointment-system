@@ -193,17 +193,8 @@ doctor-appointment-system/
 │   │   ├── doctor.py            # Doctor-specific endpoints
 │   │   └── patient.py           # Patient-specific endpoints
 │   └── schemas.py               # Pydantic data models for requests/responses
-├── README.md                    # Main project README (this file)
-├── week_3/                      # (Likely) Separate learning exercises or older project version
-│   ├── api.py
-│   ├── database.py
-│   ├── main.py
-│   ├── models.py
-│   └── schemas.py
-├── week1_answers.py             # Python programming exercises
-└── week2_answers.py             # More Python programming exercises
+└── README.md                    # Main project README (this file)
 ```
 
-**Note**: The `week_3/`, `week1_answers.py`, and `week2_answers.py` files are educational exercises and are not directly part of the `doctor-appointment-system` API application.
 
 
