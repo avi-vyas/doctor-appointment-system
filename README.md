@@ -173,7 +173,7 @@ Here's a step-by-step example of how to use the Doctor Appointment System API, d
              -H "Authorization: Bearer <patient_access_token>"
         ```
 
-## 📖 API Reference
+## API Reference
 
 All API endpoints are prefixed with `/` unless otherwise specified and are secured with JWT authentication and RBAC where noted.
 
