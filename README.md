@@ -1,7 +1,5 @@
 # Doctor Appointment System API
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-blueviolet?logo=sqlalchemy&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-DB-4479A1?logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/Authentication-JWT-orange?logo=json-web-tokens&logoColor=white)
-
 A robust and secure Doctor Appointment System API built with FastAPI, designed to facilitate efficient appointment management for both doctors and patients. This system provides a clear separation of concerns with role-based access control (RBAC) for `DOCTOR` and `PATIENT` users.
 
 ## Features
